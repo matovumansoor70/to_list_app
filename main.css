@@ -1,0 +1,11 @@
+body{background-image:url("images/Wave.jpg");
+            background-repeat: repeat;
+            background-size: cover;
+        }
+ #man{background-image:url("images/aaa.jpg");
+    background-repeat: repeat;
+    background-size: cover;text-align: center; }  
+    button{direction:underline none; border-radius: 60px}
+    table,th,tr,td{border-radius:  40px;padding: 9px;size: 50px}
+li{direction:none;}
+input{padding: 10px;border-radius: 60px}
